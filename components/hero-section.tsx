@@ -19,9 +19,8 @@ export function HeroSection() {
         <h1 className="text-5xl md:text-7xl font-bold text-balance mb-6 text-white bg-gradient-to-r from-white to-zinc-400 bg-clip-text">
           Meet Kulos
         </h1>
-        <p className="text-xl md:text-2xl text-zinc-400 text-balance mb-8 leading-relaxed">
-          A sleek, secure smart ring that lets you pay on the go, track key lifestyle metrics, and stay connected
-          without being tied to your phone.
+        <p className="text-lg md:text-xl text-zinc-400 text-balance mb-8 leading-relaxed">
+          Health • Payments • One tap
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <Button
